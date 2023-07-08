@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/fernando5351/toys_api/issues"
   },
-  "homepage": "https://github.com/fernando5351/toys_api#readme"
+  "homepage": "https://github.com/fernando5351/toys_api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
 }
