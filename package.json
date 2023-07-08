@@ -4,7 +4,9 @@
   "description": "The Toy API is an application programming interface designed to provide access to a wide variety of toy-related information. It allows developers to get details about different types of toys, including features, prices, reviews, availability, and more. This API also allows you to search and filter toys based on categories, recommended ages, brands, and other criteria. Additionally, developers can access images of the toys to display in their applications.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
